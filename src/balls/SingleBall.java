@@ -119,9 +119,9 @@ public class SingleBall extends CoreBall
 	 * @param playerDir the direction in which the paddle is moving
 	 * @param bricks set of bricks
 	 * @param game currently played game
-	 * @param otherBall additional ball
+	 * @param additionalBall additional ball
 	 */
-	public void moveBall(Rectangle player,int playerDir, BrickGenerator bricks, NormalLevel game, SingleBall otherBall)
+	public void moveBall(Rectangle player,int playerDir, BrickGenerator bricks, NormalLevel game, SingleBall additionalBall)
 	{
 		//variables determining how many times ball should move in either direction
 		int moveX = Math.abs(ballDirX);
@@ -150,7 +150,7 @@ public class SingleBall extends CoreBall
 				moveY--;
 			}
 			//the ball stops moving when it hits something
-			if(hittingPaddle(player, playerDir) || ((NormalBall)this).hittingBricks(bricks, game) || hittingFrame() ||(otherBall != null &&  ((NormalBall)this).hittingBalls(otherBall)))
+			if(hittingPaddle(player, playerDir) || ((NormalBall)this).hittingBricks(bricks, game) || hittingFrame() ||(additionalBall != null &&  ((NormalBall)this).hittingBalls(additionalBall)))
 				cont = false;
 		}
 	}

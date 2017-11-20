@@ -38,7 +38,7 @@ public class LevelOne extends NormalLevel
 	 * @param secondLevel reference to label representing next level
 	 * @param thirdLevel reference to label representing third level
 	 */
-	public LevelOne(Main main, JLabel secondLevel, JLabel thirdLevel )
+	public LevelOne(Main main, JLabel secondLevel, JLabel thirdLevel)
 	{
 		super(main);
 		this.main = main;

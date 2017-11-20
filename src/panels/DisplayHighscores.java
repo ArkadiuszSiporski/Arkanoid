@@ -82,14 +82,14 @@ public class DisplayHighscores extends JPanel
 			
 			if(i == 1)
 			{
-				((Main)SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(140, 0, 850, 150);
+				(SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(140, 0, 850, 150);
 				g.setFont(new Font("Serif", Font.BOLD, 60));
 				g.setColor(Color.RED);
 				g.drawString(output, 0, i*70);
 			}
 			else
 			{
-				((Main)SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(400, 0, 400, i *80 );
+				(SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(400, 0, 400, i *80 );
 			}
 			sc.close();
 		}

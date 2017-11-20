@@ -50,7 +50,7 @@ public class Multiplayer extends JPanel implements ActionListener
 	private MultiBall ball;
 	
 	private Timer timer;
-	private int delay = 7;
+	private int delay = 20;
 	
 	/**
 	 * This constructor initializes the timer, both players, ball and makes the cursor transparent as well as sets Key Bindings.

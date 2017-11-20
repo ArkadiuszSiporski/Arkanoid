@@ -53,7 +53,7 @@ public class NormalBall extends SingleBall
 							{
 								ballDirX = -ballDirX;
 							}				
-							if(ballY + 14 == i * bricks.getBrickHeight() + 80 + (i*2) || ballY + 1 ==(i + 1) * bricks.getBrickHeight() + 80 + (i*2) )
+							else if(ballY + 14 == i * bricks.getBrickHeight() + 80 + (i*2) || ballY + 1 ==(i + 1) * bricks.getBrickHeight() + 80 + (i*2) )
 							{
 								ballDirY = -ballDirY;
 							}
