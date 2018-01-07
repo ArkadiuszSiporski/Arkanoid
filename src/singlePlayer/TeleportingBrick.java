@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
  * Class implements target used in third level of single player mode.
  *
  */
-public class Target
+public class TeleportingBrick
 {
 	private Random generator = new Random();
 	private int targetX;
@@ -25,7 +25,7 @@ public class Target
 	 * Constructor initializes the target.
 	 * @param HP number of hits it takes to destroy the target
 	 */
-	public Target(int HP)
+	public TeleportingBrick(int HP)
 	{
 		moveTarget(new Rectangle(800, 800, 0, 0));
 		targetTimer = 2900;

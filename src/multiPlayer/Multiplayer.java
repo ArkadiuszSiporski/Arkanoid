@@ -41,16 +41,16 @@ public class Multiplayer extends JPanel implements ActionListener
 	private Image background = new ImageIcon(Multiplayer.class.getResource("/resources/Multiplayerbg.png")).getImage();;
 	//top Player
 	private TopPlayer topPlayer;
-	private int topVictories = 0;
+	private int topScore = 0;
 	//bottom Player
 	private BottomPlayer bottomPlayer;
-	private int bottomVictories = 0;
+	private int bottomScore = 0;
 
 	//ball
 	private MultiBall ball;
 	
 	private Timer timer;
-	private int delay = 20;
+	private int delay = 7;
 	
 	/**
 	 * This constructor initializes the timer, both players, ball and makes the cursor transparent as well as sets Key Bindings.
@@ -180,9 +180,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString("LOST " + topVictories, 350, 200);
+		g.drawString("LOST " + topScore, 350, 200);
 		g.setColor(Color.GREEN);
-		g.drawString("WON " + bottomVictories, 350, 600);
+		g.drawString("WON " + bottomScore, 350, 600);
 	}
 	/**
 	 * This method displays message when the top player won
@@ -193,9 +193,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString("LOST " + bottomVictories, 350, 600);
+		g.drawString("LOST " + bottomScore, 350, 600);
 		g.setColor(Color.GREEN);
-		g.drawString("WON " + topVictories, 350, 200);
+		g.drawString("WON " + topScore, 350, 200);
 	}
 	/**
 	 * This method registers impacts e.g ball hitting frame or the paddles and checks if the ball is still in the playground.
@@ -231,12 +231,12 @@ public class Multiplayer extends JPanel implements ActionListener
 		over = true;
 		if(ball.getBallY() <= 0)
 		{
-			bottomVictories++;
+			bottomScore++;
 			
 		}
 		else if (ball.getBallY() >= 740)
 		{
-			topVictories++;
+			topScore++;
 		}
 	}	
 }

@@ -1,20 +1,25 @@
 package main;
 
 
-import javax.swing.JFrame;
+import java.awt.Component;
 
+import javax.swing.JFrame;
+import javax.swing.JList;
+import javax.swing.Renderer;
 import javax.swing.SwingUtilities;
 
 import abstractLevels.CoreLevel;
-import panels.*;
 import multiPlayer.Multiplayer;
+import panels.ArcanoidMenu;
+import panels.DisplayHighscores;
+import panels.Menu;
 /**
  * Class serving as the window, that contains all used panels.
  * @author Arkadiusz Siporski
  * @version 1.0
  *
  */
-public class Main extends JFrame
+public class Main extends JFrame implements Renderer
 {
 
 
@@ -23,19 +28,21 @@ public class Main extends JFrame
 	private Multiplayer multiplayer;
 	private CoreLevel game;
 	
+	
+	
 	private DisplayHighscores highscores;
 	/**
 	 * This constructor sets up the main window.
 	 */
 	
-	Main()
+	public Main()
 	{
 		setTitle("Menu");
 		//					1000 800
 		//					300 275
-		setBounds(500, 200, 300, 275);
+		setBounds(500, 200, 300, 325);
 		setFocusTraversalKeysEnabled(false);
-		setResizable(false);
+		setResizable(true);
 		setVisible(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		highscores = new DisplayHighscores();
@@ -141,5 +148,15 @@ public class Main extends JFrame
 	}
 	public Multiplayer getMultiplayer() {
 		return multiplayer;
+	}
+	@Override
+	public void setValue(Object aValue, boolean isSelected) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public Component getComponent() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

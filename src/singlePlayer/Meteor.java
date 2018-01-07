@@ -96,7 +96,8 @@ public class Meteor
 		{
 			return true;
 		}
-		else
+		else{
 			return false;
+		}
 	}
 }

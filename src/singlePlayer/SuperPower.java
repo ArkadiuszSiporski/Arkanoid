@@ -89,6 +89,11 @@ public class SuperPower
 					nextPower = generator.nextInt(5) + 1;
 			}while(nextPower == alreadyIn);
 			alreadyIn = nextPower;
+			try{
+				throw new Exception();
+			} catch(Exception e){
+				
+			}
 
 			
 			//+55 and not +70 because we subtract half of power's width to align centers

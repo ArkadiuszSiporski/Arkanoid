@@ -20,7 +20,7 @@ import abstractLevels.NormalLevel;
 import balls.SpecialBall;
 import main.Main;
 import singlePlayer.Meteor;
-import singlePlayer.Target;
+import singlePlayer.TeleportingBrick;
 
 
 /**
@@ -34,7 +34,7 @@ public class LevelThree extends CoreLevel
 	private static final int SAFE_LEAVE = 3;
 	//target's hp
 	private static final int TARGET_HP = 5;
-	private Target target;
+	private TeleportingBrick target;
 	private Meteor meteor = new Meteor();
 	/**
 	 * Constructor initializes background, ball, adds a mouse listener and Key Bindings.
@@ -43,7 +43,7 @@ public class LevelThree extends CoreLevel
 	public LevelThree(Main main)
 	{
 		super(main);
-		target = new Target(TARGET_HP);
+		target = new TeleportingBrick(TARGET_HP);
 		
 		ball = new SpecialBall();
 		background = new ImageIcon(NormalLevel.class.getResource("/resources/Level3bg.png")).getImage();
@@ -193,7 +193,7 @@ public class LevelThree extends CoreLevel
 	 */
 	public void newGame()
 	{
-		target = new Target(TARGET_HP);
+		target = new TeleportingBrick(TARGET_HP);
 		meteor.reset();
 		player.reset();
 		super.newGame();

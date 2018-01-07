@@ -1,5 +1,6 @@
 package panels;
 import java.awt.FlowLayout;
+import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
@@ -47,7 +48,7 @@ public class ArcanoidMenu extends JPanel
 	public ArcanoidMenu()
 	{
 
-		setLayout(new FlowLayout());
+		setLayout(new GridBagLayout());
 		
 		firstLevel = setLabel(level1Icon, level1RollOver, 1);
 		secondLevel =setLabel(level2Icon,  level2RollOver, 2);

@@ -27,6 +27,7 @@
 					</archive>
 				</configuration>
 			</plugin>
+			<!--  
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.5.1</version>
@@ -35,6 +36,8 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
+			-->
 		</plugins>
+		<finalName>Arkanoid</finalName>
 	</build>
 </project>

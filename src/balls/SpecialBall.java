@@ -2,7 +2,7 @@ package balls;
 
 import java.awt.Rectangle;
 
-import singlePlayer.Target;
+import singlePlayer.TeleportingBrick;
 /**
  * Ball used in the third level.
  *
@@ -14,7 +14,7 @@ public class SpecialBall extends SingleBall
 	 * @param target an extraordinary brick
 	 * @return returns true if the target was hit
 	 */
-	public boolean hittingTarget(Target target)
+	public boolean hittingTarget(TeleportingBrick target)
 	{
 		Rectangle ballRect = new Rectangle(ballX, ballY, ball.getWidth(null), ball.getHeight(null));
 		Rectangle targetRect = new Rectangle(target.getTargetX(), target.getTargetY(), target.getTarget().getWidth(null), target.getTarget().getHeight(null));
