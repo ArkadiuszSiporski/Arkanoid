@@ -28,7 +28,6 @@
 	<back>Powrót</back>
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>Brak rekordów, bądź pierwszy!</noRecords>
-	<loading>Wczytywanie...</loading>
 	<!-- Menu -->
 	<singlePlayer>Pojedynczy gracz</singlePlayer>
 	<multiPlayer>1 na 1</multiPlayer>
