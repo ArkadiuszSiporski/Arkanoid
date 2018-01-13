@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<!-- CORE LEVEL -->
+	<tab>TAB = powrót do menu</tab>
+	<mouseButtonPlay>Naciśnij przycisk myszy, aby zagrać</mouseButtonPlay>
+	<safeLeaveInst>Naciśnij 'S' aby zmienić 'bezpieczne wyjście'</safeLeaveInst>
+	<safeLeaveStat>Bezpieczne wyjście </safeLeaveStat>
+	<on>WŁĄCZONE</on>
+	<off>WYŁĄCZONE</off>
+	<youLost>PRZEGRAŁEŚ</youLost>
+	<mouseButtonReplay>(Naciśnij przycisk myszy, aby zagrać ponownie)
+	</mouseButtonReplay>
+	<nick>Podaj swój nick (do 10 znaków)</nick>
+	<saveScore>Zapisz wynik</saveScore>
+	<!-- MAIN -->
+	<menu>Menu</menu>
+	<arcanoidMenu>Arcanoid Menu</arcanoidMenu>
+	<multiplayer>Multiplayer</multiplayer>
+	<highscores>Najwyższe wyniki</highscores>
+	<arcanoid>Arcanoid</arcanoid>
+	<!-- MULTIPLAYER -->
+	<topPlayerInst>ruch klawiszami A/D</topPlayerInst>
+	<bottomPlayerInst>ruch klawiszami strzałek</bottomPlayerInst>
+	<spacebarPlay>Naciśnij spację, aby zagrać</spacebarPlay>
+	<lost>PRZEGRANY </lost>
+	<won>WYGRANY </won>
+	<!-- ARCANOID MENU -->
+	<back>Powrót</back>
+	<!-- DISPLAY HIGHSCORES -->
+	<noRecords>Brak rekordów, bądź pierwszy!</noRecords>
+	<!-- Menu -->
+	<singlePlayer>Pojedynczy gracz</singlePlayer>
+	<multiPlayer>1 na 1</multiPlayer>
+	<highscores>Najwyższe wyniki</highscores>
+	<exit>Wyjście</exit>
+	<designTooltip>Wybierz skórkę</designTooltip>
+	<!-- LEVEL ONE -->
+	<youWon>WYGRAŁEŚ!</youWon>
+	<unlockLvl2>POZIOM 2 ODBLOKOWANY!</unlockLvl2>
+	<spacebarCont>(Wciśnij SPACJĘ, aby kontynuować)</spacebarCont>
+	<orMouseReplay>(lub przycisk myszy, aby ponownie rozegrać poziom)</orMouseReplay>
+	<!-- LEVEL TWO -->
+	<unlockLvl3>POZIOM 3 ODBLOKOWANY!</unlockLvl3>
+	<!-- LEVEL THREE -->
+	<congratulations>GRATULACJE!</congratulations>
+	<finishedGame>UKOŃCZYŁEŚ GRĘ!!</finishedGame>
+
+
+
+
+</language>

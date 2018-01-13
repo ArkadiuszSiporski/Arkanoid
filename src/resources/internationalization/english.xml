@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<!-- CORE LEVEL -->
+	<tab>TAB = back to menu</tab>
+	<mouseButtonPlay>Press a MOUSE BUTTON to play</mouseButtonPlay>
+	<safeLeaveInst>Press 'S' to toggle 'safe cursor leave'</safeLeaveInst>
+	<safeLeaveStat>Safe cursor leave is </safeLeaveStat>
+	<on>ON</on>
+	<off>OFF</off>
+	<youLost>YOU LOST</youLost>
+	<mouseButtonReplay>(Press a mouse button to play again)
+	</mouseButtonReplay>
+	<nick>What's your nick? (up to 10 characters)</nick>
+	<saveScore>Save your score</saveScore>
+	<!-- MAIN -->
+	<menu>Menu</menu>
+	<arcanoidMenu>Arcanoid Menu</arcanoidMenu>
+	<multiplayer>Multiplayer</multiplayer>
+	<highscores>Highscores</highscores>
+	<arcanoid>Arcanoid</arcanoid>
+	<!-- MULTIPLAYER -->
+	<topPlayerInst>move using A/D keys</topPlayerInst>
+	<bottomPlayerInst>move using arrow keys</bottomPlayerInst>
+	<spacebarPlay>Press SPACEBAR to play</spacebarPlay>
+	<lost>LOST </lost>
+	<won>WON </won>
+	<!-- ARCANOID MENU -->
+	<back>BACK</back>
+	<!-- DISPLAY HIGHSCORES -->
+	<noRecords>There seem to be no records yet</noRecords>
+	<!-- Menu -->
+	<singlePlayer>Single Player</singlePlayer>
+	<multiPlayer>1v1</multiPlayer>
+	<highscores>Highscores</highscores>
+	<exit>Exit</exit>
+	<designTooltip>Choose design</designTooltip>
+	<!-- LEVEL ONE -->
+	<youWon>YOU WON!</youWon>
+	<unlockLvl2>LEVEL 2 HAS BEEN UNLOCKED!</unlockLvl2>
+	<spacebarCont>(Press SPACE to continue)</spacebarCont>
+	<orMouseReplay>(or a mouse button to replay this level)</orMouseReplay>
+	<!-- LEVEL TWO -->
+	<unlockLvl3>LEVEL 3 HAS BEEN UNLOCKED!</unlockLvl3>
+	<!-- LEVEL THREE -->
+	<congratulations>CONGRATULATIONS</congratulations>
+	<finishedGame>YOU HAVE FINISHED THE GAME!!</finishedGame>
+
+
+
+
+</language>

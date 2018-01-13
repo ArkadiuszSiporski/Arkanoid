@@ -1,5 +1,6 @@
 package panels;
 import java.awt.FlowLayout;
+import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -21,6 +22,7 @@ import main.Main;
 import singlePlayerLevels.LevelOne;
 import singlePlayerLevels.LevelThree;
 import singlePlayerLevels.LevelTwo;
+import utils.Internationalizer;
 /**
  * Class that implements arcanoid menu in which we can choose the level we want to play.
  *
@@ -42,6 +44,9 @@ public class ArcanoidMenu extends JPanel
 	private Icon level1RollOver = new ImageIcon( ArcanoidMenu.class.getResource("/resources/Level1RollOver.png"));
 	private Icon level2RollOver= new ImageIcon( ArcanoidMenu.class.getResource("/resources/Level2RollOver.png"));
 	private Icon level3RollOver= new ImageIcon( ArcanoidMenu.class.getResource("/resources/Level3RollOver.png"));
+	
+	private Internationalizer internationalizer = Internationalizer.getInstance();
+	
 	/**
 	 * This constructor initializes  all objects the panel is built of.
 	 */
@@ -64,7 +69,7 @@ public class ArcanoidMenu extends JPanel
 		getInputMap(JPanel.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("ESCAPE"), "exit");
 		getActionMap().put("exit", this.new Controls(EXIT));
 		
-		back = new JButton("Back");
+		back = new JButton(internationalizer.getString("back"));
 		back.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e)
 			{
@@ -74,10 +79,17 @@ public class ArcanoidMenu extends JPanel
 			}
 		});
 		back.setFocusable(false);
-		add(firstLevel);
-		add(secondLevel);
-		add(thirdLevel);
-		add(back);
+		GridBagConstraints gridBagConstraints = new GridBagConstraints();
+		gridBagConstraints.gridx = 0;
+		gridBagConstraints.gridy = 0;
+		add(firstLevel, gridBagConstraints);
+		gridBagConstraints.gridx =1;
+		add(secondLevel, gridBagConstraints);
+		gridBagConstraints.gridx = 2;
+		add(thirdLevel, gridBagConstraints);
+		gridBagConstraints.gridx = 1;
+		gridBagConstraints.gridy = 1;
+		add(back, gridBagConstraints);
 	
 	}
 	
@@ -88,9 +100,9 @@ public class ArcanoidMenu extends JPanel
 	 * @param lvl which level the label is representing
 	 * @return returns a reference to set label
 	 */
-	public JLabel setLabel(Icon level, Icon rollOver, int lvl)
+	public JLabel setLabel(final Icon level, final Icon rollOver, final int lvl)
 	{
-		JLabel label = new JLabel(level);
+		final JLabel label = new JLabel(level);
 		label.addMouseListener(new MouseAdapter()
 		{
              @Override

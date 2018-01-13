@@ -83,12 +83,10 @@ public class LevelOne extends NormalLevel
 			{
 				main.dispatchEvent(new WindowEvent(main, WindowEvent.WINDOW_CLOSING));
 			}
-			else if (instruction == SAFE_LEAVE && 	timer.isRunning())
+			else if (instruction == SAFE_LEAVE)
 			{
-				if(safeLeave)
-					safeLeave = false;
-				else
-					safeLeave = true;
+				safeLeave = !safeLeave;
+				repaint();
 			}
 			
 			
@@ -108,14 +106,14 @@ public class LevelOne extends NormalLevel
 			((Graphics2D)g).setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
 			g.setColor(Color.GREEN);
 			g.setFont(new Font("Serif", Font.BOLD, 100));
-			g.drawString("YOU WON!", 250, 500);
+			g.drawString(internationalizer.getString("youWon"), 250, 500);
 			if(gameState == UNLOCKED_NEXT_LEVEL )
 			{
 				g.setFont(new Font("Serif", Font.BOLD, 50));
-				g.drawString("LEVEL 2 HAS BEEN UNLOCKED", 150, 600);
+				g.drawString(internationalizer.getString("unlockLvl2"), 150, 600);
 				g.setFont(new Font("Serif", Font.BOLD, 25));
-				g.drawString("(Press SPACE to continue)", 350, 650);
-				g.drawString("(or a mouse button to replay this level)", 280, 670);
+				g.drawString(internationalizer.getString("spacebarCont"), 350, 650);
+				g.drawString(internationalizer.getString("orMouseReplay"), 280, 670);
 			}
 		}
 

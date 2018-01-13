@@ -14,7 +14,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.image.BufferedImage;
 
-
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.Timer;
@@ -23,6 +22,7 @@ import balls.SingleBall;
 import main.Main;
 import paddles.SinglePlayer;
 import singlePlayer.SaveScores;
+import utils.Internationalizer;
 
 /**
  * Core class from which all levels inherit.
@@ -55,6 +55,8 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 	protected Main main;
 	//SAFE LEAVE
 	protected boolean safeLeave = true;
+	//
+	protected Internationalizer internationalizer = Internationalizer.getInstance();
 
 	/**
 	 * This constructor makes the cursor transparent, adds a MouseMotionListener and starts the timer which among others causes the screen to refresh.
@@ -78,11 +80,15 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 		{
 			public void mouseMoved(MouseEvent e)
 			{
-				player.movePaddle(e.getX(), play, ball);
+				if(gameState == PLAY){
+					player.movePaddle(e.getX(), play, ball);
+				}
 			}
 			public void mouseDragged(MouseEvent e)
 			{
+				if(gameState == PLAY){
 				player.movePaddle(e.getX(), play, ball);
+				}
 			}
 
 		});
@@ -113,23 +119,23 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 			//instructions
 			//how to go back
 			g.setFont(new Font("Serif", Font.BOLD, 20));
-			g.drawString("TAB = back to menu", 30, 30);
+			g.drawString(internationalizer.getString("tab"), 30, 30);
 			//how to start
-			g.drawString("Press a MOUSE BUTTON to play", 30, 60);
+			g.drawString(internationalizer.getString("mouseButtonPlay"), 30, 60);
 			//toggling safe leave
-			g.drawString("Press 'S' to toggle 'safe cursor leave'", 350, 30);
+			g.drawString(internationalizer.getString("safeLeaveInst"), 350, 30);
 			//safe leave status
-			g.drawString("Safe cursor leave is ", 350, 60);
+			g.drawString(internationalizer.getString("safeLeaveStat"), 350, 60);
 			if(safeLeave)
 			{
 				g.setColor(Color.GREEN);
-				g.drawString("ON", 520, 60);
+				g.drawString(internationalizer.getString("on"), 520, 60);
 			}
 				
 			else
 			{
 				g.setColor(Color.RED);
-				g.drawString("OFF", 520, 60);
+				g.drawString(internationalizer.getString("off"), 520, 60);
 			}
 				
 			
@@ -141,9 +147,9 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 			
 			g.setColor(Color.RED);
 			g.setFont(new Font("Serif", Font.BOLD, 100));
-			g.drawString("YOU LOST", 250, 500);
-			g.setFont(new Font("Serif", Font.BOLD, 50));
-			g.drawString("(Press a mouse button to play again)", 150, 600);
+			g.drawString(internationalizer.getString("youLost"), 200, 500);
+			g.setFont(new Font("Serif", Font.BOLD, 45));
+			g.drawString(internationalizer.getString("mouseButtonReplay"), 20, 600);
 		}
 		//ball
 		ball.draw(g);
@@ -197,7 +203,7 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 	//saving results in a file
 	public void victory()
 	{
-		new Thread (new SaveScores((int)score, JOptionPane.showInputDialog(main, "What's your nick? (up to 10 characters)", "Save your score", JOptionPane.QUESTION_MESSAGE) )).start();
+		new Thread (new SaveScores(((Double)score).longValue(), JOptionPane.showInputDialog(main, internationalizer.getString("nick"), internationalizer.getString("saveScore"), JOptionPane.QUESTION_MESSAGE) )).start();
 	}
 
 

@@ -10,6 +10,7 @@ import javax.swing.Timer;
 import balls.MultiBall;
 import main.Main;
 import paddles.*;
+import utils.Internationalizer;
 
 import java.awt.Color;
 import java.awt.Cursor;
@@ -51,6 +52,7 @@ public class Multiplayer extends JPanel implements ActionListener
 	
 	private Timer timer;
 	private int delay = 7;
+	private Internationalizer internationalizer = Internationalizer.getInstance();
 	
 	/**
 	 * This constructor initializes the timer, both players, ball and makes the cursor transparent as well as sets Key Bindings.
@@ -140,12 +142,12 @@ public class Multiplayer extends JPanel implements ActionListener
 			g.setColor(Color.WHITE);
 			g.setFont(new Font("Serif", Font.BOLD, 20));
 			//how to move
-			g.drawString("move using A/D keys", 770, 30);
-			g.drawString("move using arrow keys", 750, 700);
+			g.drawString(internationalizer.getString("topPlayerInst"), 770, 30);
+			g.drawString(internationalizer.getString("bottomPlayerInst"), 750, 700);
 			//how to go back
-			g.drawString("TAB = back to menu", 30, 30);
+			g.drawString(internationalizer.getString("tab"), 30, 30);
 			//how to start
-			g.drawString("Press SPACEBAR to play", 30, 60);
+			g.drawString(internationalizer.getString("spacebarPlay"), 30, 60);
 		}
 		//frame
 		g.setColor(Color.YELLOW);
@@ -180,9 +182,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString("LOST " + topScore, 350, 200);
+		g.drawString(internationalizer.getString("lost") + topScore, 350, 200);
 		g.setColor(Color.GREEN);
-		g.drawString("WON " + bottomScore, 350, 600);
+		g.drawString(internationalizer.getString("won") + bottomScore, 350, 600);
 	}
 	/**
 	 * This method displays message when the top player won
@@ -193,9 +195,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString("LOST " + bottomScore, 350, 600);
+		g.drawString(internationalizer.getString("won") + bottomScore, 350, 600);
 		g.setColor(Color.GREEN);
-		g.drawString("WON " + topScore, 350, 200);
+		g.drawString(internationalizer.getString("lost") + topScore, 350, 200);
 	}
 	/**
 	 * This method registers impacts e.g ball hitting frame or the paddles and checks if the ball is still in the playground.

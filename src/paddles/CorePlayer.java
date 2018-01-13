@@ -2,13 +2,14 @@ package paddles;
 
 import java.awt.Graphics;
 import java.awt.Image;
-
 import java.awt.event.ActionEvent;
 
 import javax.swing.AbstractAction;
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;
+
 import balls.MultiBall;
+import exceptions.PlaygroundVergeException;
 
 /**
  * Core paddle used in multiplayer mode. Both BottomPlayer and TopPlayer inherit from it.
@@ -51,13 +52,21 @@ public abstract class CorePlayer extends JComponent
 		{
 			for(int i = 0; i < 9; i++)
 			{
-				
-				if(	((paddleDir == -1) && (paddleX >= 0)) || ((paddleX <= 993 - paddle.getWidth(null)) && (paddleDir == 1))	)
+				try{
+					if(	!((paddleDir == -1) && (paddleX >= 0)) && !((paddleX <= 993 - paddle.getWidth(null)) && (paddleDir == 1))	){
+						throw new PlaygroundVergeException();
+				}
+				} catch(PlaygroundVergeException e){
+					break;
+				}
+				paddleX += paddleDir;
+				ball.hittingPaddle(paddleX, paddleY, paddleDir, paddle);
+				/*if(	((paddleDir == -1) && (paddleX >= 0)) || ((paddleX <= 993 - paddle.getWidth(null)) && (paddleDir == 1))	)
 				{
 		
 					paddleX += paddleDir;
 					ball.hittingPaddle(paddleX, paddleY, paddleDir, paddle);
-				}
+				}*/
 			}
 			
 		}

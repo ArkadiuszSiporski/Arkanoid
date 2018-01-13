@@ -5,6 +5,9 @@ import java.util.Formatter;
 import java.util.Scanner;
 import java.util.Vector;
 
+import db.dao.PlayerDao;
+import db.dao.PlayerDaoImpl;
+import db.model.Player;
 import exceptions.EmptyNickException;
 import exceptions.NickLengthException;
 
@@ -14,11 +17,9 @@ import exceptions.NickLengthException;
  *
  */
 public class SaveScores implements Runnable {
-	private Scanner sc;
-	private int newScore;
-	private Vector<String> output;
+	private Long newScore;
 	private String nick;
-	private String path;
+	private PlayerDao playerDao = new PlayerDaoImpl();
 
 	/**
 	 * Initializes score, nick to be saved in file and the path to the file.
@@ -28,7 +29,7 @@ public class SaveScores implements Runnable {
 	 * @param nick
 	 *            player's nick
 	 */
-	public SaveScores(int newScore, String nick) {
+	public SaveScores(Long newScore, String nick) {
 		this.newScore = newScore;
 		try {
 			testNick(nick);
@@ -38,8 +39,8 @@ public class SaveScores implements Runnable {
 		} catch (NickLengthException e) {
 			this.nick = nick.substring(0, 10);
 		}
-		this.output = new Vector<String>();
-		path = (new File("src/resources/test.txt")).getAbsolutePath();
+		
+		
 
 	}
 
@@ -52,57 +53,16 @@ public class SaveScores implements Runnable {
 	}
 
 	/**
-	 * Invokes 2 methods which in conjunction save up to top 10 scored in the
-	 * file.
+	 * Writes player's score to data base
 	 */
-	@Override
 	public void run() {
-		sort();
 		save();
 	}
-
-	/**
-	 * Sorts current high scores and the new score.
-	 */
-	private void sort() {
-		Vector<Integer> scores = new Vector<Integer>();
-		Vector<String> input = new Vector<String>();
-		try {
-
-			sc = new Scanner(new File(path));
-			while (sc.hasNext()) {
-				scores.add(sc.nextInt());
-				input.addElement(sc.next());
-			}
-			sc.close();
-		} catch (Exception e) {
-			System.out.printf("There is no file at %s\n", path);
-		}
-		int i = 0;
-		while (i < scores.size() && newScore <= scores.get(i)) {
-			i++;
-		}
-		if (i < 10) {
-			scores.add(i, newScore);
-			input.add(i, nick);
-		}
-		for (int j = 0; j < scores.size(); j++) {
-			output.add(String.format("%d %s", scores.get(j), input.get(j)));
-		}
-	}
-
-	/**
-	 * Writes sorted high scores back to the file.
-	 */
-	private void save() {
-		try {
-			Formatter f = new Formatter(path);
-			int i = 0;
-			while (i < output.size() && i < 10)
-				f.format("%s%n", output.get(i++));
-			f.close();
-		} catch (Exception e) {
-			System.out.printf("There is no file at %s\n", path);
-		}
+	
+	private void save(){
+		Player player = new Player();
+		player.setNick(nick);
+		player.setScore(newScore);
+		playerDao.insert(player);
 	}
 }
