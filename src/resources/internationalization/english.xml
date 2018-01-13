@@ -28,6 +28,7 @@
 	<back>BACK</back>
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>There seem to be no records yet</noRecords>
+	<loading>Loading...</loading>
 	<!-- Menu -->
 	<singlePlayer>Single Player</singlePlayer>
 	<multiPlayer>1v1</multiPlayer>

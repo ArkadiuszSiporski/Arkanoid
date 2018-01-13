@@ -7,7 +7,8 @@ import javax.swing.UIManager;
 import abstractLevels.CoreLevel;
 import multiPlayer.Multiplayer;
 import panels.ArcanoidMenu;
-import panels.DisplayHighscoresImpl;
+import panels.DisplayHighscores;
+import panels.DisplayHighscoresProxy;
 import panels.Menu;
 import utils.Internationalizer;
 
@@ -27,7 +28,7 @@ public class Main extends JFrame {
 	private Multiplayer multiplayer;
 	private CoreLevel game;
 
-	private DisplayHighscoresImpl highscores;
+	private DisplayHighscores highscores;
 	private Internationalizer internationalizer = Internationalizer.getInstance();
 
 	/**
@@ -48,9 +49,8 @@ public class Main extends JFrame {
 	}
 
 	public void init() {
-		System.out.println("INIT");
 		// HIGHSCORES
-		highscores = new DisplayHighscoresImpl();
+		highscores = new DisplayHighscoresProxy();
 		// MENU
 		if (menu != null) {
 			remove(menu);
@@ -155,7 +155,7 @@ public class Main extends JFrame {
 		return arcanoidMenu;
 	}
 
-	public DisplayHighscoresImpl getHighscores() {
+	public DisplayHighscores getHighscores() {
 		return highscores;
 	}
 
