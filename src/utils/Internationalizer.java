@@ -11,7 +11,7 @@ import panels.Menu;
 
 public final class Internationalizer {
 	private static volatile Internationalizer instance;
-	private Language currentLanguage = Language.POLISH;
+	private Language currentLanguage = Language.ENGLISH;
 	private Document doc;
 
 	public enum Language {
@@ -19,7 +19,7 @@ public final class Internationalizer {
 	}
 
 	private Internationalizer() {
-		initLanguage(Language.ENGLISH);
+		initLanguage(Language.POLISH);
 	};
 
 	public static Internationalizer getInstance() {
@@ -37,7 +37,6 @@ public final class Internationalizer {
 		if (!currentLanguage.equals(language)) {
 			try {
 				currentLanguage = language;
-				System.out.println(language.toString().toLowerCase());
 				File fXmlFile = new File(Menu.class
 						.getResource("/resources/internationalization/" + language.toString().toLowerCase() + ".xml")
 						.toURI());

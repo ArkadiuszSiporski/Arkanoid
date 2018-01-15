@@ -18,8 +18,8 @@ import javax.swing.KeyStroke;
 
 import abstractLevels.NormalLevel;
 import main.Main;
-import singlePlayer.BrickGenerator;
-import singlePlayer.Meteor;
+import singlePlayerMisc.BrickGenerator;
+import singlePlayerMisc.Meteor;
 
 /**
  * Class implements second level of single player mode.

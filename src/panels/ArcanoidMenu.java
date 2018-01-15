@@ -23,6 +23,7 @@ import singlePlayerLevels.LevelOne;
 import singlePlayerLevels.LevelThree;
 import singlePlayerLevels.LevelTwo;
 import utils.Internationalizer;
+import utils.LevelFactory;
 /**
  * Class that implements arcanoid menu in which we can choose the level we want to play.
  *
@@ -54,6 +55,7 @@ public class ArcanoidMenu extends JPanel
 	{
 
 		setLayout(new GridBagLayout());
+		setFactory();
 		
 		firstLevel = setLabel(level1Icon, level1RollOver, 1);
 		secondLevel =setLabel(level2Icon,  level2RollOver, 2);
@@ -100,7 +102,12 @@ public class ArcanoidMenu extends JPanel
 	 * @param lvl which level the label is representing
 	 * @return returns a reference to set label
 	 */
-	public JLabel setLabel(final Icon level, final Icon rollOver, final int lvl)
+	private void setFactory(){
+		LevelFactory.setSecondLevel(secondLevel);
+		LevelFactory.setThirdLevel(thirdLevel);
+		
+	}
+	private JLabel setLabel(final Icon level, final Icon rollOver, final int lvl)
 	{
 		final JLabel label = new JLabel(level);
 		label.addMouseListener(new MouseAdapter()
@@ -126,13 +133,13 @@ public class ArcanoidMenu extends JPanel
          			switch(lvl)
          			{
          				case 1:
-         					main.setGame(new LevelOne(main, secondLevel, thirdLevel));
+         					main.setGame(LevelFactory.getLevel(lvl));
          				break;
          				case 2:
-         					main.setGame(new LevelTwo(main, thirdLevel));
+         					main.setGame(LevelFactory.getLevel(lvl));
          				break;
          				case 3:
-         					main.setGame(new LevelThree(main));
+         					main.setGame(LevelFactory.getLevel(lvl));
          				break;
          				
          			}

@@ -18,18 +18,22 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
+import org.apache.log4j.Logger;
+
 import balls.SingleBall;
 import main.Main;
 import paddles.SinglePlayer;
-import singlePlayer.SaveScores;
+import singlePlayerMisc.SaveScores;
+import utils.Clock;
 import utils.Internationalizer;
 
 /**
  * Core class from which all levels inherit.
  *
  */
-public abstract class CoreLevel extends JPanel implements ActionListener
+public abstract class CoreLevel extends JPanel implements ActionListener, Level
 {
+	protected static final Logger LOG = Logger.getLogger(CoreLevel.class);
 	//constants used by field over
 	protected static final int PLAY = 0;
 	protected static final int LOST = 1;
@@ -153,14 +157,16 @@ public abstract class CoreLevel extends JPanel implements ActionListener
 		}
 		//ball
 		ball.draw(g);
-
-	
+		g.setColor(Color.WHITE);
+		g.setFont(new Font("Serif", Font.BOLD, 50));
+		g.drawString(Clock.getTime(), 740, 50);
 		g.dispose();
 	}
 	/**
 	 * Ends the game when ball leaves the playground
 	 */
 	//ball out of the playground
+	@Override
 	public void over()
 	{
 			gameState = LOST;

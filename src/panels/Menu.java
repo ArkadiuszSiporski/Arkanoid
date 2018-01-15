@@ -1,6 +1,9 @@
 package panels;
 
+import java.awt.Color;
 import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Graphics;
 import java.awt.GridBagConstraints;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -37,6 +40,8 @@ import org.w3c.dom.Document;
 
 import db.dao.PlayerDaoImpl;
 import main.Main;
+import utils.Clock;
+import utils.ComboBoxLabel;
 import utils.Internationalizer;
 import utils.LanguageRenderer;
 import utils.Internationalizer.Language;
@@ -54,9 +59,10 @@ public class Menu extends JPanel {
 	private JButton exit;
 	private JList<Language> languages;
 	private JComboBox<String> comboBox;
+	private ComboBoxLabel comboBoxLabel;
 	private Map<String, String> plafs;
 	private Internationalizer internationalizer = Internationalizer.getInstance();
-
+	
 	/**
 	 * Constructor sets up Key Bindings and invokes method to set up all used
 	 * buttons.
@@ -80,12 +86,12 @@ public class Menu extends JPanel {
 		languages = setLanguageList();
 		// COMBO BOX
 		comboBox = setComboBox();
+		//COMBO BOX LABEL
+		comboBoxLabel = setComboBoxLabel(comboBox);
 
-		GridBagConstraints gridBagConstraints = new GridBagConstraints();
-		gridBagConstraints.gridx = 0;
-		gridBagConstraints.gridy = 0;
 		add(languages);
 		add(Box.createRigidArea(new Dimension(0, 5)));
+		add(comboBoxLabel);
 		add(comboBox);
 		add(Box.createRigidArea(new Dimension(0, 5)));
 		add(singlePlayer);
@@ -102,8 +108,8 @@ public class Menu extends JPanel {
 		JList<Language> list = new JList<Language>();
 		list.setSize(new Dimension(300, 50));
 		list.setFixedCellHeight(25);
-		list.setFixedCellWidth(150);
-		list.setBounds(100, 0, 300, 50);
+		list.setFixedCellWidth(100);
+		list.setBounds(100, 0, 100, 50);
 		list.setOpaque(false);
 		// SwingUtilities.updateComponentTreeUI(((Main)
 		// SwingUtilities.getRoot(this)));
@@ -130,7 +136,6 @@ public class Menu extends JPanel {
 			}
 
 		});
-		// list.setVisibleRowCount(1);
 		list.setDropMode(DropMode.ON);
 		return list;
 	}
@@ -164,6 +169,9 @@ public class Menu extends JPanel {
 		comboBox.addItem("Windows");
 		comboBox.addItem("Windows Classic");
 		initializePlafs();
+		if(!comboBox.getSelectedItem().equals(UIManager.getLookAndFeel().getName())){
+			comboBox.setSelectedItem(UIManager.getLookAndFeel().getName());
+		}
 		comboBox.addItemListener(new ItemListener() {
 			public void itemStateChanged(ItemEvent event) {
 				if (event.getStateChange() == ItemEvent.SELECTED) {
@@ -178,7 +186,7 @@ public class Menu extends JPanel {
 				((Main) SwingUtilities.getRoot(Menu.this)).repaint();
 			}
 		});
-
+		
 		comboBox.setAlignmentX(LEFT_ALIGNMENT);
 		comboBox.setVisible(true);
 		comboBox.setFocusable(false);
@@ -186,6 +194,13 @@ public class Menu extends JPanel {
 		comboBox.setMaximumSize(size);
 		comboBox.setPreferredSize(size);
 		return comboBox;
+	}
+	
+	private ComboBoxLabel setComboBoxLabel(JComboBox<?> comboBox){
+		ComboBoxLabel comboBoxLabel = new ComboBoxLabel(internationalizer.getString("designs"));
+		comboBoxLabel.setComboBox(comboBox);
+		comboBoxLabel.setVisible(true);
+		return comboBoxLabel;
 	}
 
 	private void initializePlafs() {

@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
  * Core ball class from which MultiBall and SingleBall inherit.
  *
  */
-public abstract  class CoreBall
+public abstract  class CoreBall implements Ball
 {
 	
 	protected final Image ball = new ImageIcon(CoreBall.class.getResource("/resources/ball4.png")).getImage();
@@ -35,13 +35,6 @@ public abstract  class CoreBall
 		ballX += ballDirX;
 		ballY += ballDirY;
 	}
-	//checks if ball is still on the playground
-	public abstract boolean  outOfBounds();
-	//resets ball position
-	public abstract void reset();
-	//starts moving the ball
-	public abstract void start();
-
 
 	public int getBallY() {
 		return ballY;

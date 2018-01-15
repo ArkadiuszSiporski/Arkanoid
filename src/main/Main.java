@@ -1,17 +1,21 @@
 package main;
 
 import javax.swing.JFrame;
+import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
-import javax.swing.UIManager;
+
+import org.apache.log4j.Logger;
 
 import abstractLevels.CoreLevel;
+import abstractLevels.Level;
+import abstractLevels.NullLevel;
 import multiPlayer.Multiplayer;
 import panels.ArcanoidMenu;
-import panels.DisplayHighscoresImpl;
+import panels.DisplayHighscores;
 import panels.Menu;
+import utils.Clock;
 import utils.Internationalizer;
-
-import javax.swing.UIManager.*;
+import utils.LevelFactory;
 
 /**
  * Class serving as the window, that contains all used panels.
@@ -21,13 +25,14 @@ import javax.swing.UIManager.*;
  *
  */
 public class Main extends JFrame {
+	private static final Logger LOG = Logger.getLogger(Main.class);
 
 	private Menu menu;
 	private ArcanoidMenu arcanoidMenu;
 	private Multiplayer multiplayer;
-	private CoreLevel game;
+	private Level game;
 
-	private DisplayHighscoresImpl highscores;
+	private DisplayHighscores highscores;
 	private Internationalizer internationalizer = Internationalizer.getInstance();
 
 	/**
@@ -35,7 +40,9 @@ public class Main extends JFrame {
 	 */
 
 	public Main() {
+		LOG.debug("Main constructor beginning ");
 		setTitle(internationalizer.getString("menu"));
+		LevelFactory.setMain(this);
 		// 1000 800
 		// 300 275
 		setBounds(500, 200, 300, 325);
@@ -44,13 +51,16 @@ public class Main extends JFrame {
 		init();
 		setVisible(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		LOG.debug("Main constructor ending ");
+		new Clock().start();
 
 	}
 
 	public void init() {
-		System.out.println("INIT");
+		LOG.debug("Main init beginning ");
 		// HIGHSCORES
-		highscores = new DisplayHighscoresImpl();
+		highscores = new DisplayHighscores();
+		game = new NullLevel();
 		// MENU
 		if (menu != null) {
 			remove(menu);
@@ -64,11 +74,12 @@ public class Main extends JFrame {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
+		LOG.debug("Main init ending ");
 	}
 
 	public static void main(String[] args) {
 		Main window = new Main();
+		LOG.debug("Window initialized");
 	}
 
 	/**
@@ -76,8 +87,9 @@ public class Main extends JFrame {
 	 */
 
 	public void toMenu() {
+		LOG.debug("Switching to Menu panel");
 		setTitle(internationalizer.getString("menu"));
-		setBounds(500, 200, 300, 275);
+		setBounds(500, 200, 300, 325);
 		add(menu);
 	}
 
@@ -85,13 +97,15 @@ public class Main extends JFrame {
 	 * Changes panel to arcanoidMenu.
 	 */
 	public void toArcanoidMenu() {
+		LOG.debug("Switching to ArcanoidMenu panel");
 		if (game != null) {
 			game.over();
-			remove(game);
+			remove((JPanel)game);
 		}
 		setTitle(internationalizer.getString("arcanoidMenu"));
 		setBounds(140, 0, 800, 280);
 		add(arcanoidMenu);
+		SwingUtilities.updateComponentTreeUI(this);
 	}
 
 	/**
@@ -99,6 +113,7 @@ public class Main extends JFrame {
 	 */
 
 	public void toMultiplayer() {
+		LOG.debug("Switching to Multiplayer panel");
 		remove(menu);
 		setBounds(140, 0, 1000, 800);
 		setTitle(internationalizer.getString("multiPlayer"));
@@ -110,6 +125,7 @@ public class Main extends JFrame {
 	 * Changes panel to highscores.
 	 */
 	public void toHighscores() {
+		LOG.debug("Switching to Highscores panel");
 		highscores.init();
 		remove(menu);
 		setBounds(400, 0, 400, 800);
@@ -128,15 +144,11 @@ public class Main extends JFrame {
 	 *            which level is to be played
 	 */
 
-	public void setGame(CoreLevel game) {
-		if (this.game != null)
-
-		{
-			this.game.over();
-			remove(this.game);
-		}
+	public void setGame(Level game) {
+		this.game.over();
+		remove((JPanel)this.game);
 		this.game = game;
-		add(this.game);
+		add((JPanel)this.game);
 		SwingUtilities.updateComponentTreeUI(this);
 	}
 
@@ -147,7 +159,7 @@ public class Main extends JFrame {
 		remove(arcanoidMenu);
 		setBounds(140, 0, 1000, 800);
 		setTitle(internationalizer.getString("arcanoid"));
-		add(game);
+		add((JPanel)game);
 
 	}
 
@@ -155,11 +167,11 @@ public class Main extends JFrame {
 		return arcanoidMenu;
 	}
 
-	public DisplayHighscoresImpl getHighscores() {
+	public DisplayHighscores getHighscores() {
 		return highscores;
 	}
 
-	public CoreLevel getGame() {
+	public Level getGame() {
 		return game;
 	}
 

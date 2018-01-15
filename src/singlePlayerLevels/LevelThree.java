@@ -19,8 +19,8 @@ import abstractLevels.CoreLevel;
 import abstractLevels.NormalLevel;
 import balls.SpecialBall;
 import main.Main;
-import singlePlayer.Meteor;
-import singlePlayer.TeleportingBrick;
+import singlePlayerMisc.Meteor;
+import singlePlayerMisc.TeleportingBrick;
 
 /**
  * Class implements third level of single player mode.

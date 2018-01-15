@@ -5,7 +5,7 @@ import java.awt.Rectangle;
 import java.awt.Robot;
 
 import abstractLevels.NormalLevel;
-import singlePlayer.BrickGenerator;
+import singlePlayerMisc.BrickGenerator;
 
 /**
  * Ball used in single player mode. NormalBall and SpecialBall inherit from it.

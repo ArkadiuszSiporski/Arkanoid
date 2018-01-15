@@ -28,12 +28,14 @@
 	<back>Powrót</back>
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>Brak rekordów, bądź pierwszy!</noRecords>
+	<loading>Wczytywanie...</loading>
 	<!-- Menu -->
 	<singlePlayer>Pojedynczy gracz</singlePlayer>
 	<multiPlayer>1 na 1</multiPlayer>
 	<highscores>Najwyższe wyniki</highscores>
 	<exit>Wyjście</exit>
 	<designTooltip>Wybierz skórkę</designTooltip>
+	<designs>Skórki</designs>
 	<!-- LEVEL ONE -->
 	<youWon>WYGRAŁEŚ!</youWon>
 	<unlockLvl2>POZIOM 2 ODBLOKOWANY!</unlockLvl2>

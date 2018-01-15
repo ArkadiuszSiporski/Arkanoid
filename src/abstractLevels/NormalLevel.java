@@ -16,9 +16,9 @@ import balls.NormalBall;
 import balls.SingleBall;
 import exceptions.InterruptTimer;
 import main.Main;
-import singlePlayer.BrickGenerator;
-import singlePlayer.DelayTimer;
-import singlePlayer.Mustache;
+import singlePlayerMisc.BrickGenerator;
+import singlePlayerMisc.DelayTimer;
+import singlePlayerMisc.Mustache;
 
 /**
  * Class containing additional features. Superclass of first and second level.
@@ -199,6 +199,7 @@ public abstract class NormalLevel extends CoreLevel {
 					throw new InterruptTimer();
 				}
 			} catch (Exception e) {
+				LOG.error("Timer interrupted", e);
 				delayTimer.interrupt();
 			}
 			delayTimer = new DelayTimer(this, 10);

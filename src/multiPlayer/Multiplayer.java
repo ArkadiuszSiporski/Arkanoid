@@ -10,6 +10,7 @@ import javax.swing.Timer;
 import balls.MultiBall;
 import main.Main;
 import paddles.*;
+import utils.Clock;
 import utils.Internationalizer;
 
 import java.awt.Color;
@@ -142,7 +143,7 @@ public class Multiplayer extends JPanel implements ActionListener
 			g.setColor(Color.WHITE);
 			g.setFont(new Font("Serif", Font.BOLD, 20));
 			//how to move
-			g.drawString(internationalizer.getString("topPlayerInst"), 770, 30);
+			g.drawString(internationalizer.getString("topPlayerInst"), 770, 80);
 			g.drawString(internationalizer.getString("bottomPlayerInst"), 750, 700);
 			//how to go back
 			g.drawString(internationalizer.getString("tab"), 30, 30);
@@ -172,6 +173,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		{
 			topWon(g);
 		}	
+		g.setColor(Color.WHITE);
+		g.setFont(new Font("Serif", Font.BOLD, 50));
+		g.drawString(Clock.getTime(), 850, 50);
 	}
 	/**
 	 * This method displays message when the bottom player won

@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 
 
 import balls.SingleBall;
-import singlePlayer.PaddleTimer;
+import singlePlayerMisc.PaddleTimer;
 
 /**
  * Paddle used in single player mode.

@@ -17,8 +17,7 @@ import javax.swing.KeyStroke;
 
 import abstractLevels.NormalLevel;
 import main.Main;
-
-import singlePlayer.BrickGenerator;
+import singlePlayerMisc.BrickGenerator;
 
 /**
  * Class implements first level of single player mode.

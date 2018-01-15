@@ -28,12 +28,14 @@
 	<back>BACK</back>
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>There seem to be no records yet</noRecords>
+	<loading>Loading...</loading>
 	<!-- Menu -->
 	<singlePlayer>Single Player</singlePlayer>
 	<multiPlayer>1v1</multiPlayer>
 	<highscores>Highscores</highscores>
 	<exit>Exit</exit>
 	<designTooltip>Choose design</designTooltip>
+	<designs>Designs</designs>
 	<!-- LEVEL ONE -->
 	<youWon>YOU WON!</youWon>
 	<unlockLvl2>LEVEL 2 HAS BEEN UNLOCKED!</unlockLvl2>
@@ -44,6 +46,7 @@
 	<!-- LEVEL THREE -->
 	<congratulations>CONGRATULATIONS</congratulations>
 	<finishedGame>YOU HAVE FINISHED THE GAME!!</finishedGame>
+	
 
 
 

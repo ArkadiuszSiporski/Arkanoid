@@ -3,7 +3,7 @@ package balls;
 import java.awt.Rectangle;
 
 import abstractLevels.NormalLevel;
-import singlePlayer.BrickGenerator;
+import singlePlayerMisc.BrickGenerator;
 
 /**
  * Ball used in first and second level.

@@ -2,7 +2,7 @@ package balls;
 
 import java.awt.Rectangle;
 
-import singlePlayer.TeleportingBrick;
+import singlePlayerMisc.TeleportingBrick;
 /**
  * Ball used in the third level.
  *
