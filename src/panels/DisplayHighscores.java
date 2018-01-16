@@ -21,8 +21,8 @@ import db.dao.PlayerDao;
 import db.dao.PlayerDaoImpl;
 import db.model.Player;
 import exceptions.NoRecordsException;
+import internationalization.Internationalizer;
 import main.Main;
-import utils.Internationalizer;
 
 /**
  * Class that implements panel in which we can can see the highest scores read

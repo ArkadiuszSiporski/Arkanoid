@@ -9,12 +9,12 @@ import org.apache.log4j.Logger;
 import abstractLevels.CoreLevel;
 import abstractLevels.Level;
 import abstractLevels.NullLevel;
+import internationalization.Internationalizer;
 import multiPlayer.Multiplayer;
 import panels.ArcanoidMenu;
 import panels.DisplayHighscores;
 import panels.Menu;
 import utils.Clock;
-import utils.Internationalizer;
 import utils.LevelFactory;
 
 /**

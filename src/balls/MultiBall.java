@@ -12,6 +12,7 @@ import java.util.Random;
 public class MultiBall extends CoreBall
 {
 	private Random generator = new Random();
+	
 	public MultiBall()
 	{
 		ballX = 493;
@@ -20,7 +21,6 @@ public class MultiBall extends CoreBall
 	/**
 	 * This method starts the game by setting ball's directions(movement)
 	 */
-	@Override
 	
 	public void start()
 	{
@@ -42,13 +42,11 @@ public class MultiBall extends CoreBall
 		}
 	}
 	//checks if ball is still within the playground
-	@Override
 	public boolean outOfBounds()
 	{
 		return (ballY  <= 0 || ballY >= 740);
 	}
 	//puts ball in the middle
-	@Override
 	public void reset()
 	{
 		ballX = 493;

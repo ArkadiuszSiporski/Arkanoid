@@ -14,6 +14,7 @@ import singlePlayerMisc.BrickGenerator;
 
 public class SingleBall extends CoreBall
 {
+	
 	public SingleBall()
 	{
 		ballX = 537;
@@ -22,13 +23,11 @@ public class SingleBall extends CoreBall
 	}
 
 	//checks if ball left the playground
-	@Override
 	public boolean outOfBounds() 
 	{
 		return (ballY > 740);
 	}
 
-	@Override
 	public void reset() 
 	{
 		//setting paddle's position in the middle
@@ -44,7 +43,6 @@ public class SingleBall extends CoreBall
 		
 		
 	}
-	@Override
 	public void start() 
 	{
 		ballDirX = 2;

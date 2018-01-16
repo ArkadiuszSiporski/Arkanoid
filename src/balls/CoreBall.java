@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
  * Core ball class from which MultiBall and SingleBall inherit.
  *
  */
-public abstract  class CoreBall implements Ball
+public abstract  class CoreBall
 {
 	
 	protected final Image ball = new ImageIcon(CoreBall.class.getResource("/resources/ball4.png")).getImage();

@@ -7,8 +7,8 @@ import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.ListCellRenderer;
 
+import internationalization.Internationalizer.Language;
 import panels.ArcanoidMenu;
-import utils.Internationalizer.Language;
 
 public class LanguageRenderer extends JLabel implements ListCellRenderer<Language> {
 

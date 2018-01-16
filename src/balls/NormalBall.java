@@ -11,14 +11,15 @@ import singlePlayerMisc.BrickGenerator;
  */
 public class NormalBall extends SingleBall
 {
+	
 	public NormalBall()
 	{
 		super();
 	}
-	public NormalBall(int X, int Y)
+	public NormalBall(int x, int y)
 	{
-		ballX = X;
-		ballY = Y;
+		ballX = x;
+		ballY = y;
 	}
 	/**
 	 * Checks if ball hit a brick

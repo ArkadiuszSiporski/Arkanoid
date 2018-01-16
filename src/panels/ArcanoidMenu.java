@@ -18,11 +18,11 @@ import javax.swing.JPanel;
 import javax.swing.KeyStroke;
 import javax.swing.SwingUtilities;
 
+import internationalization.Internationalizer;
 import main.Main;
 import singlePlayerLevels.LevelOne;
 import singlePlayerLevels.LevelThree;
 import singlePlayerLevels.LevelTwo;
-import utils.Internationalizer;
 import utils.LevelFactory;
 /**
  * Class that implements arcanoid menu in which we can choose the level we want to play.

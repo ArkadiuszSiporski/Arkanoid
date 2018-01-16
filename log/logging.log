@@ -1720,3 +1720,91 @@
 2018-01-15 15:14:59 DEBUG Main:77 - Main init ending 
 2018-01-15 15:14:59 DEBUG Main:54 - Main constructor ending 
 2018-01-15 15:14:59 DEBUG Main:82 - Window initialized
+2018-01-16 11:25:08 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:25:08 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:08 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:08 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:25:08 DEBUG Main:82 - Window initialized
+2018-01-16 11:25:26 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:25:26 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:26 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:26 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:25:26 DEBUG Main:82 - Window initialized
+2018-01-16 11:25:28 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:28 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:29 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:29 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:30 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:30 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:30 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:30 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:31 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:31 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:31 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:31 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:31 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:25:31 DEBUG Main:77 - Main init ending 
+2018-01-16 11:25:37 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:26:38 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:26:38 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:38 DEBUG Main:77 - Main init ending 
+2018-01-16 11:26:38 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:26:38 DEBUG Main:82 - Window initialized
+2018-01-16 11:26:41 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:41 DEBUG Main:77 - Main init ending 
+2018-01-16 11:26:43 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:43 DEBUG Main:77 - Main init ending 
+2018-01-16 11:26:45 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:45 DEBUG Main:77 - Main init ending 
+2018-01-16 11:26:50 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 11:26:51 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 11:26:53 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:53 DEBUG Main:77 - Main init ending 
+2018-01-16 11:26:55 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:26:55 DEBUG Main:77 - Main init ending 
+2018-01-16 11:27:10 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 11:27:32 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:27:32 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:27:32 DEBUG Main:77 - Main init ending 
+2018-01-16 11:27:32 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:27:32 DEBUG Main:82 - Window initialized
+2018-01-16 11:27:34 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:28:04 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 11:28:05 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:28:05 DEBUG Main:77 - Main init ending 
+2018-01-16 11:28:05 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 11:28:07 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 11:28:07 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 11:28:08 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:29:16 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:29:16 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:29:16 DEBUG Main:77 - Main init ending 
+2018-01-16 11:29:16 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:29:16 DEBUG Main:82 - Window initialized
+2018-01-16 11:29:19 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:29:19 DEBUG Main:77 - Main init ending 
+2018-01-16 11:29:19 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:29:37 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:29:37 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:29:37 DEBUG Main:77 - Main init ending 
+2018-01-16 11:29:37 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:29:37 DEBUG Main:82 - Window initialized
+2018-01-16 11:29:39 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:29:39 DEBUG Main:77 - Main init ending 
+2018-01-16 11:29:39 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:29:45 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 11:29:47 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:29:47 DEBUG Main:77 - Main init ending 
+2018-01-16 11:29:48 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:30:07 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:30:07 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:30:07 DEBUG Main:77 - Main init ending 
+2018-01-16 11:30:07 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:30:07 DEBUG Main:82 - Window initialized
+2018-01-16 11:30:09 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:30:09 DEBUG Main:77 - Main init ending 
+2018-01-16 11:30:10 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:30:14 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 11:30:15 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:30:15 DEBUG Main:77 - Main init ending 
+2018-01-16 11:30:16 DEBUG Main:116 - Switching to Multiplayer panel

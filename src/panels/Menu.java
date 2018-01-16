@@ -39,12 +39,12 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.Document;
 
 import db.dao.PlayerDaoImpl;
+import internationalization.Internationalizer;
+import internationalization.Internationalizer.Language;
 import main.Main;
 import utils.Clock;
 import utils.ComboBoxLabel;
-import utils.Internationalizer;
 import utils.LanguageRenderer;
-import utils.Internationalizer.Language;
 
 /**
  * Class that implements menu panel in which we can choose the mode we want to
@@ -129,7 +129,7 @@ public class Menu extends JPanel {
 			@Override
 			public void valueChanged(ListSelectionEvent e) {
 				if (e.getValueIsAdjusting() == false) {
-					if(internationalizer.initLanguage(list.getSelectedValue())){
+					if(internationalizer.changeLanguage(list.getSelectedValue())){
 						((Main) SwingUtilities.getRoot(Menu.this)).init();
 					}
 				}

@@ -1,4 +1,4 @@
-package utils;
+package internationalization;
 
 import java.io.File;
 
@@ -12,14 +12,14 @@ import panels.Menu;
 public final class Internationalizer {
 	private static volatile Internationalizer instance;
 	private Language currentLanguage = Language.ENGLISH;
-	private Document doc;
+	private Document dictionary;
 
 	public enum Language {
 		POLISH, ENGLISH;
 	}
 
 	private Internationalizer() {
-		initLanguage(Language.POLISH);
+		changeLanguage(Language.POLISH);
 	};
 
 	public static Internationalizer getInstance() {
@@ -33,28 +33,34 @@ public final class Internationalizer {
 		return instance;
 	}
 
-	public boolean initLanguage(Language language) {
+	public boolean changeLanguage(Language language) {
 		if (!currentLanguage.equals(language)) {
 			try {
+				if(Language.POLISH.equals(language)){
+					new PolishDictionary().translate(this);
+				} else if(Language.ENGLISH.equals(language)){
+					new EnglishDictionary().translate(this);
+				}
+				
+				
 				currentLanguage = language;
-				File fXmlFile = new File(Menu.class
-						.getResource("/resources/internationalization/" + language.toString().toLowerCase() + ".xml")
-						.toURI());
-				DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-				DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-				doc = dBuilder.parse(fXmlFile);
 				return true;
 			} catch (Exception e1) {
 				e1.printStackTrace();
 			}
 
 		}
+		
 		return false;
 
 	}
 	
 	public String getString(String tag){
-		return doc.getElementsByTagName(tag).item(0).getTextContent();
+		return dictionary.getElementsByTagName(tag).item(0).getTextContent();
+	}
+
+	void setDictionary(Document dictionary) {
+		this.dictionary = dictionary;
 	}
 
 }

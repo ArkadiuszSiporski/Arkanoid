@@ -21,11 +21,11 @@ import javax.swing.Timer;
 import org.apache.log4j.Logger;
 
 import balls.SingleBall;
+import internationalization.Internationalizer;
 import main.Main;
 import paddles.SinglePlayer;
 import singlePlayerMisc.SaveScores;
 import utils.Clock;
-import utils.Internationalizer;
 
 /**
  * Core class from which all levels inherit.

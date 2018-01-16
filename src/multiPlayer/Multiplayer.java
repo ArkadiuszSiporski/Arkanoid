@@ -8,10 +8,10 @@ import javax.swing.SwingUtilities;
 import javax.swing.Timer;
 
 import balls.MultiBall;
+import internationalization.Internationalizer;
 import main.Main;
 import paddles.*;
 import utils.Clock;
-import utils.Internationalizer;
 
 import java.awt.Color;
 import java.awt.Cursor;
@@ -186,9 +186,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString(internationalizer.getString("lost") + topScore, 350, 200);
+		g.drawString(internationalizer.getString("lost") + topScore, 250, 200);
 		g.setColor(Color.GREEN);
-		g.drawString(internationalizer.getString("won") + bottomScore, 350, 600);
+		g.drawString(internationalizer.getString("won") + bottomScore, 250, 600);
 	}
 	/**
 	 * This method displays message when the top player won
@@ -199,9 +199,9 @@ public class Multiplayer extends JPanel implements ActionListener
 		
 		g.setFont(new Font("Serif", Font.BOLD, 100));
 		g.setColor(Color.RED);
-		g.drawString(internationalizer.getString("won") + bottomScore, 350, 600);
+		g.drawString(internationalizer.getString("lost") + bottomScore, 250, 600);
 		g.setColor(Color.GREEN);
-		g.drawString(internationalizer.getString("lost") + topScore, 350, 200);
+		g.drawString(internationalizer.getString("won") + topScore, 250, 200);
 	}
 	/**
 	 * This method registers impacts e.g ball hitting frame or the paddles and checks if the ball is still in the playground.
