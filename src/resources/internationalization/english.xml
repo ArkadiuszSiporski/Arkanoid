@@ -29,6 +29,7 @@
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>There seem to be no records yet</noRecords>
 	<loading>Loading...</loading>
+	<dbFailure>Database connection failure!</dbFailure>
 	<!-- Menu -->
 	<singlePlayer>Single Player</singlePlayer>
 	<multiPlayer>1v1</multiPlayer>

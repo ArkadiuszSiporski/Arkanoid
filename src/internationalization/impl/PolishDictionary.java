@@ -1,4 +1,4 @@
-package internationalization;
+package internationalization.impl;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,6 +10,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
+import internationalization.Dictionary;
 import panels.Menu;
 
 public class PolishDictionary extends Dictionary {

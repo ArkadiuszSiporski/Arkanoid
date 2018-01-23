@@ -1808,3 +1808,2639 @@
 2018-01-16 11:30:15 DEBUG Main:60 - Main init beginning 
 2018-01-16 11:30:15 DEBUG Main:77 - Main init ending 
 2018-01-16 11:30:16 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 11:32:54 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 11:32:54 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:55 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:55 DEBUG Main:54 - Main constructor ending 
+2018-01-16 11:32:55 DEBUG Main:82 - Window initialized
+2018-01-16 11:32:56 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:56 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:56 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:56 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:57 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:57 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:57 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:57 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:58 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:58 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:58 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:58 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:58 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:58 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:59 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:59 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:59 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:59 DEBUG Main:77 - Main init ending 
+2018-01-16 11:32:59 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:32:59 DEBUG Main:77 - Main init ending 
+2018-01-16 11:33:00 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:33:00 DEBUG Main:77 - Main init ending 
+2018-01-16 11:33:00 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:33:00 DEBUG Main:77 - Main init ending 
+2018-01-16 11:33:01 DEBUG Main:60 - Main init beginning 
+2018-01-16 11:33:01 DEBUG Main:77 - Main init ending 
+2018-01-16 12:47:22 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:47:22 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:47:22 DEBUG Main:77 - Main init ending 
+2018-01-16 12:47:22 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:47:22 DEBUG Main:82 - Window initialized
+2018-01-16 12:47:24 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:47:24 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:47:26 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:47:26 DEBUG Main:77 - Main init ending 
+2018-01-16 12:47:26 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:47:27 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:47:28 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:47:29 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:48:07 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:48:07 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:48:07 DEBUG Main:77 - Main init ending 
+2018-01-16 12:48:07 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:48:07 DEBUG Main:82 - Window initialized
+2018-01-16 12:48:08 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:48:09 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:48:09 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:48:10 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:48:10 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:48:11 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:48:12 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:48:13 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:48:28 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:49:44 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:49:44 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:49:44 DEBUG Main:77 - Main init ending 
+2018-01-16 12:49:44 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:49:44 DEBUG Main:82 - Window initialized
+2018-01-16 12:50:07 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:50:07 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:50:07 DEBUG Main:77 - Main init ending 
+2018-01-16 12:50:08 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:50:08 DEBUG Main:82 - Window initialized
+2018-01-16 12:50:08 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:09 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:11 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:12 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:13 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:14 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:15 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:16 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:17 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:18 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:19 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 12:50:19 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:20 DEBUG Main:116 - Switching to Multiplayer panel
+2018-01-16 12:50:20 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:21 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:22 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:23 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:50:23 DEBUG Main:77 - Main init ending 
+2018-01-16 12:50:23 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:24 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:26 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:27 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:33 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:34 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:50:34 DEBUG Main:77 - Main init ending 
+2018-01-16 12:50:35 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:37 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:38 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:50:38 DEBUG Main:77 - Main init ending 
+2018-01-16 12:50:38 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:39 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:40 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:40 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:42 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:42 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:43 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:44 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:50:45 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:50:46 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:53:22 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:53:22 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:53:58 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:53:58 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:53:58 DEBUG Main:77 - Main init ending 
+2018-01-16 12:53:58 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:53:58 DEBUG Main:82 - Window initialized
+2018-01-16 12:53:59 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:54:00 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:54:01 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:54:01 DEBUG Main:77 - Main init ending 
+2018-01-16 12:54:02 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:54:04 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 12:54:05 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 12:58:22 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 12:58:22 DEBUG Main:60 - Main init beginning 
+2018-01-16 12:58:22 DEBUG Main:77 - Main init ending 
+2018-01-16 12:58:22 DEBUG Main:54 - Main constructor ending 
+2018-01-16 12:58:22 DEBUG Main:82 - Window initialized
+2018-01-16 12:58:23 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:05:27 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:05:27 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:05:27 DEBUG Main:77 - Main init ending 
+2018-01-16 13:05:27 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:05:27 DEBUG Main:82 - Window initialized
+2018-01-16 13:05:28 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:06:09 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:06:09 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:06:09 DEBUG Main:77 - Main init ending 
+2018-01-16 13:06:09 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:06:09 DEBUG Main:82 - Window initialized
+2018-01-16 13:06:09 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:08:07 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:08:07 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:08:07 DEBUG Main:77 - Main init ending 
+2018-01-16 13:08:07 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:08:07 DEBUG Main:82 - Window initialized
+2018-01-16 13:08:08 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:08:12 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:08:12 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:08:12 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:08:43 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:08:43 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:08:43 DEBUG Main:77 - Main init ending 
+2018-01-16 13:08:43 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:08:43 DEBUG Main:82 - Window initialized
+2018-01-16 13:08:47 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:08:50 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:08:50 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:08:50 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:08:51 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:08:51 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:08:53 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:08:53 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:08:53 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:08:53 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:08:53 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:09:00 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:09:03 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:09:03 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:09:03 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:09:03 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:09:03 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:09:36 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:09:36 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:09:36 DEBUG Main:77 - Main init ending 
+2018-01-16 13:09:36 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:09:36 DEBUG Main:82 - Window initialized
+2018-01-16 13:09:37 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:09:43 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:09:43 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:09:43 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:09:43 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:09:43 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:09:43 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:09:51 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:09:51 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:09:51 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:09:51 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:09:51 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:10:56 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:10:56 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:10:56 DEBUG Main:77 - Main init ending 
+2018-01-16 13:10:56 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:10:56 DEBUG Main:82 - Window initialized
+2018-01-16 13:10:57 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:10:59 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:10:59 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:10:59 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:10:59 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:10:59 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:10:59 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:11:01 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:11:01 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:11:01 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:11:01 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:11:01 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:11:01 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:11:07 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:11:44 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:11:44 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:11:44 DEBUG Main:77 - Main init ending 
+2018-01-16 13:11:44 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:11:44 DEBUG Main:82 - Window initialized
+2018-01-16 13:11:45 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:11:58 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:11:58 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:11:58 DEBUG Main:77 - Main init ending 
+2018-01-16 13:11:58 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:11:58 DEBUG Main:82 - Window initialized
+2018-01-16 13:11:59 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:12:01 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:12:01 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:12:01 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:12:01 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:12:02 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:12:02 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:12:05 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:12:05 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:12:05 DEBUG Main:77 - Main init ending 
+2018-01-16 13:12:06 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:12:06 DEBUG Main:82 - Window initialized
+2018-01-16 13:12:07 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:12:10 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:12:10 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:12:10 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:12:10 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:12:10 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:12:10 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:12:40 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:12:40 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:12:40 DEBUG Main:77 - Main init ending 
+2018-01-16 13:12:40 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:12:40 DEBUG Main:82 - Window initialized
+2018-01-16 13:12:41 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:12:43 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:12:43 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:12:43 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:12:44 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:12:44 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:12:46 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:12:46 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:12:46 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:12:46 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:12:46 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:12:46 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:12:57 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:12:57 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:12:57 DEBUG Main:77 - Main init ending 
+2018-01-16 13:12:57 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:12:57 DEBUG Main:82 - Window initialized
+2018-01-16 13:12:58 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:13:02 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:13:02 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:13:02 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:13:02 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:13:02 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:13:02 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:14:34 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:14:34 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:14:34 DEBUG Main:77 - Main init ending 
+2018-01-16 13:14:34 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:14:34 DEBUG Main:82 - Window initialized
+2018-01-16 13:14:35 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:14:37 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:14:37 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:14:37 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:14:37 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:14:37 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:14:37 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:21:05 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:21:05 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:21:05 DEBUG Main:77 - Main init ending 
+2018-01-16 13:21:05 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:21:05 DEBUG Main:82 - Window initialized
+2018-01-16 13:21:06 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:21:08 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:91)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:21:08 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:21:08 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:21:08 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:21:08 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:21:08 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:22:20 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:22:20 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:22:20 DEBUG Main:77 - Main init ending 
+2018-01-16 13:22:20 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:22:20 DEBUG Main:82 - Window initialized
+2018-01-16 13:22:21 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:22:23 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:92)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:22:23 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:22:23 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:22:23 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:22:24 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:22:24 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:22:30 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:92)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:22:30 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:22:30 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:22:30 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:22:30 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:22:30 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:22:36 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:22:36 DEBUG Main:90 - Switching to Menu panel
+2018-01-16 13:22:37 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:22:37 DEBUG Main:77 - Main init ending 
+2018-01-16 13:22:38 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:22:41 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:22:41 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:22:41 DEBUG Main:77 - Main init ending 
+2018-01-16 13:22:41 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:22:41 DEBUG Main:82 - Window initialized
+2018-01-16 13:22:42 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:22:45 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:92)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:22:45 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:22:45 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:22:45 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:22:45 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:22:45 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:23:05 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:23:05 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:23:05 DEBUG Main:77 - Main init ending 
+2018-01-16 13:23:05 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:23:05 DEBUG Main:82 - Window initialized
+2018-01-16 13:23:06 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:23:21 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:23:21 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:23:22 DEBUG Main:77 - Main init ending 
+2018-01-16 13:23:22 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:23:22 DEBUG Main:82 - Window initialized
+2018-01-16 13:23:22 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 13:23:24 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:92)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:23:24 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:23:24 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:23:24 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:23:24 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:23:24 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:23:33 ERROR SaveScores:41 - Empty string entered as a nick
+exceptions.EmptyNickException
+	at singlePlayerMisc.SaveScores.testNick(SaveScores.java:54)
+	at singlePlayerMisc.SaveScores.<init>(SaveScores.java:38)
+	at abstractLevels.CoreLevel.victory(CoreLevel.java:212)
+	at abstractLevels.NormalLevel.victory(NormalLevel.java:249)
+	at abstractLevels.NormalLevel$1.mouseReleased(NormalLevel.java:92)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-16 13:23:33 DEBUG JdbcTemplate:875 - Executing prepared SQL update
+2018-01-16 13:23:33 DEBUG JdbcTemplate:622 - Executing prepared SQL statement [INSERT INTO PLAYERS(nick, score) VALUES(?, ?);]
+2018-01-16 13:23:33 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-16 13:23:33 DEBUG JdbcTemplate:885 - SQL update affected 1 rows
+2018-01-16 13:23:33 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-16 13:23:42 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 13:23:42 DEBUG Main:60 - Main init beginning 
+2018-01-16 13:23:42 DEBUG Main:77 - Main init ending 
+2018-01-16 13:23:42 DEBUG Main:54 - Main constructor ending 
+2018-01-16 13:23:42 DEBUG Main:82 - Window initialized
+2018-01-16 13:23:43 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-16 19:14:59 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 19:14:59 DEBUG Main:60 - Main init beginning 
+2018-01-16 19:15:08 DEBUG Main:43 - Main constructor beginning 
+2018-01-16 19:15:08 DEBUG Main:60 - Main init beginning 
+2018-01-16 19:15:08 DEBUG Main:77 - Main init ending 
+2018-01-16 19:15:08 DEBUG Main:54 - Main constructor ending 
+2018-01-16 19:15:08 DEBUG Main:82 - Window initialized
+2018-01-23 12:12:21 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:12:21 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:12:21 DEBUG Main:77 - Main init ending 
+2018-01-23 12:12:21 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:12:21 DEBUG Main:82 - Window initialized
+2018-01-23 12:12:23 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:12:23 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:12:23 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:12:28 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:12:30 DEBUG Main:100 - Switching to ArcanoidMenu panel
+2018-01-23 12:16:01 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:16:01 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:16:01 DEBUG Main:77 - Main init ending 
+2018-01-23 12:16:01 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:16:01 DEBUG Main:82 - Window initialized
+2018-01-23 12:16:03 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:16:03 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:16:03 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:16:05 ERROR DisplayHighscores:68 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:64)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:16:10 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:16:11 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:16:11 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:16:11 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:16:13 ERROR DisplayHighscores:68 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:64)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:16:30 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:16:30 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:16:30 DEBUG Main:77 - Main init ending 
+2018-01-23 12:16:31 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:16:31 DEBUG Main:82 - Window initialized
+2018-01-23 12:16:32 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:16:32 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:16:32 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:16:34 ERROR DisplayHighscores:68 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:64)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:24:08 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:24:08 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:24:08 DEBUG Main:77 - Main init ending 
+2018-01-23 12:24:08 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:24:08 DEBUG Main:82 - Window initialized
+2018-01-23 12:24:09 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:24:09 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:24:09 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:24:12 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:24:18 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:24:21 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:24:21 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:24:21 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:24:23 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:24:25 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:24:27 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:24:27 DEBUG Main:77 - Main init ending 
+2018-01-23 12:24:28 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:24:28 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:24:28 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:24:30 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:28:46 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:28:46 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:28:46 DEBUG Main:77 - Main init ending 
+2018-01-23 12:28:46 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:28:46 DEBUG Main:82 - Window initialized
+2018-01-23 12:28:47 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:28:47 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:28:47 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:28:49 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:29:07 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:29:07 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:29:08 DEBUG Main:77 - Main init ending 
+2018-01-23 12:29:08 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:29:08 DEBUG Main:82 - Window initialized
+2018-01-23 12:29:09 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:29:09 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:29:09 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:29:11 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:29:27 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:29:27 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:29:27 DEBUG Main:77 - Main init ending 
+2018-01-23 12:29:27 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:29:27 DEBUG Main:82 - Window initialized
+2018-01-23 12:29:28 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:29:28 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:29:28 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:29:30 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:29:40 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:29:40 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:29:40 DEBUG Main:77 - Main init ending 
+2018-01-23 12:29:40 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:29:40 DEBUG Main:82 - Window initialized
+2018-01-23 12:29:42 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:29:42 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:29:42 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:29:44 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:29:53 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:29:53 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:29:53 DEBUG Main:77 - Main init ending 
+2018-01-23 12:29:53 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:29:53 DEBUG Main:82 - Window initialized
+2018-01-23 12:29:54 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:29:54 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:29:54 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:29:56 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:31:50 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:31:50 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:31:50 DEBUG Main:77 - Main init ending 
+2018-01-23 12:31:50 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:31:50 DEBUG Main:82 - Window initialized
+2018-01-23 12:31:51 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:31:51 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:31:51 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:31:53 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 1 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 1 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:31:56 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:31:57 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:31:57 DEBUG Main:77 - Main init ending 
+2018-01-23 12:31:58 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:31:58 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:31:58 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:32:00 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:32:14 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:32:14 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:32:14 DEBUG Main:77 - Main init ending 
+2018-01-23 12:32:14 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:32:14 DEBUG Main:82 - Window initialized
+2018-01-23 12:32:16 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:32:16 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:32:16 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:32:18 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:32:19 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:32:20 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:32:20 DEBUG Main:77 - Main init ending 
+2018-01-23 12:32:21 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:32:21 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:32:21 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:32:23 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:32:32 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:32:32 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:32:32 DEBUG Main:77 - Main init ending 
+2018-01-23 12:32:32 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:32:32 DEBUG Main:82 - Window initialized
+2018-01-23 12:32:33 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:32:33 DEBUG Main:77 - Main init ending 
+2018-01-23 12:32:34 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:32:34 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:32:34 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:32:36 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:32:57 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:32:57 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:32:57 DEBUG Main:77 - Main init ending 
+2018-01-23 12:32:58 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:32:58 DEBUG Main:82 - Window initialized
+2018-01-23 12:33:00 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:33:00 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:33:00 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:33:02 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:33:03 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:33:04 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:33:04 DEBUG Main:77 - Main init ending 
+2018-01-23 12:33:05 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:33:05 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:33:05 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:33:07 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:33:18 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:33:18 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:33:19 DEBUG Main:77 - Main init ending 
+2018-01-23 12:33:19 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:33:19 DEBUG Main:82 - Window initialized
+2018-01-23 12:33:20 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:33:20 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:33:20 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:33:22 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:33:27 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:33:27 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:33:27 DEBUG Main:77 - Main init ending 
+2018-01-23 12:33:27 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:33:27 DEBUG Main:82 - Window initialized
+2018-01-23 12:33:28 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:33:28 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:33:28 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:33:30 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:33:31 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:33:32 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:33:32 DEBUG Main:77 - Main init ending 
+2018-01-23 12:33:33 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:33:33 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:33:33 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:33:35 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:34:24 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:34:24 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:34:24 DEBUG Main:77 - Main init ending 
+2018-01-23 12:34:24 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:34:24 DEBUG Main:82 - Window initialized
+2018-01-23 12:34:25 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:34:25 DEBUG Main:77 - Main init ending 
+2018-01-23 12:34:26 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:34:26 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:34:26 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:34:28 ERROR DisplayHighscores:71 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:67)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:35:43 DEBUG Main:43 - Main constructor beginning 
+2018-01-23 12:35:43 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:35:43 DEBUG Main:77 - Main init ending 
+2018-01-23 12:35:43 DEBUG Main:54 - Main constructor ending 
+2018-01-23 12:35:43 DEBUG Main:82 - Window initialized
+2018-01-23 12:35:45 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:35:45 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:35:45 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:35:47 ERROR DisplayHighscores:72 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:68)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:35:48 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:35:49 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:35:49 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:35:49 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:35:51 ERROR DisplayHighscores:72 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:68)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:35:52 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:35:53 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:35:53 DEBUG Main:77 - Main init ending 
+2018-01-23 12:35:53 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:35:53 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:35:53 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:35:55 ERROR DisplayHighscores:72 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:68)
+Caused by: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+
+Last packet sent to the server was 0 ms ago.)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2294)
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2039)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:2304)
+	at org.apache.commons.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:2290)
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 22 more
+2018-01-23 12:36:25 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:36:26 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:36:26 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:36:26 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:36:26 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-23 12:36:29 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:36:30 DEBUG Main:60 - Main init beginning 
+2018-01-23 12:36:30 DEBUG Main:77 - Main init ending 
+2018-01-23 12:36:30 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:36:30 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:36:30 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:36:30 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-23 12:37:02 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:37:03 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:37:03 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:37:03 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:37:03 DEBUG DataSourceUtils:329 - Returning JDBC Connection to DataSource
+2018-01-23 12:37:04 DEBUG Main:90 - Switching to Menu panel
+2018-01-23 12:37:11 DEBUG Main:128 - Switching to Highscores panel
+2018-01-23 12:37:11 DEBUG JdbcTemplate:453 - Executing SQL query [SELECT * FROM PLAYERS ORDER BY SCORE DESC LIMIT 10;]
+2018-01-23 12:37:11 DEBUG DataSourceUtils:110 - Fetching JDBC Connection from DataSource
+2018-01-23 12:37:11 DEBUG PoolableConnectionFactory:346 - Failed to validate a poolable connection.
+java.sql.SQLException: isValid() returned false
+	at org.apache.commons.dbcp2.PoolableConnection.validate(PoolableConnection.java:284)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.validateConnection(PoolableConnectionFactory.java:357)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.validateObject(PoolableConnectionFactory.java:342)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:492)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at org.apache.commons.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:134)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:68)
+2018-01-23 12:37:13 ERROR DisplayHighscores:72 - Failed to connect with the database
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:394)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:478)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:488)
+	at db.dao.PlayerDaoImpl.getTop(PlayerDaoImpl.java:73)
+	at panels.DisplayHighscores$RecordFetcher.run(DisplayHighscores.java:68)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at org.apache.commons.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:39)
+	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:256)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at org.apache.commons.dbcp2.PoolingDataSource.getConnection(PoolingDataSource.java:134)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1533)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 5 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 23 more

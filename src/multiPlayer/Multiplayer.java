@@ -123,7 +123,7 @@ public class Multiplayer extends JPanel implements ActionListener
 			else//back to menu
 			{
 				main.toMenu();
-				main.remove(main.getMultiplayer());
+				main.remove(Multiplayer.this);
 			}
 		}
 	}

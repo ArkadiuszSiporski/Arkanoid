@@ -3,7 +3,8 @@
 	<!-- CORE LEVEL -->
 	<tab>TAB = powrót do menu</tab>
 	<mouseButtonPlay>Naciśnij przycisk myszy, aby zagrać</mouseButtonPlay>
-	<safeLeaveInst>Naciśnij 'S' aby zmienić 'bezpieczne wyjście'</safeLeaveInst>
+	<safeLeaveInst>Naciśnij 'S' aby zmienić 'bezpieczne wyjście'
+	</safeLeaveInst>
 	<safeLeaveStat>Bezpieczne wyjście </safeLeaveStat>
 	<on>WŁĄCZONE</on>
 	<off>WYŁĄCZONE</off>
@@ -29,6 +30,8 @@
 	<!-- DISPLAY HIGHSCORES -->
 	<noRecords>Brak rekordów, bądź pierwszy!</noRecords>
 	<loading>Wczytywanie...</loading>
+	<dbFailure>Nieudane połączenie z bazą danych!</dbFailure>
+
 	<!-- Menu -->
 	<singlePlayer>Pojedynczy gracz</singlePlayer>
 	<multiPlayer>1 na 1</multiPlayer>
@@ -40,7 +43,8 @@
 	<youWon>WYGRAŁEŚ!</youWon>
 	<unlockLvl2>POZIOM 2 ODBLOKOWANY!</unlockLvl2>
 	<spacebarCont>(Wciśnij SPACJĘ, aby kontynuować)</spacebarCont>
-	<orMouseReplay>(lub przycisk myszy, aby ponownie rozegrać poziom)</orMouseReplay>
+	<orMouseReplay>(lub przycisk myszy, aby ponownie rozegrać poziom)
+	</orMouseReplay>
 	<!-- LEVEL TWO -->
 	<unlockLvl3>POZIOM 3 ODBLOKOWANY!</unlockLvl3>
 	<!-- LEVEL THREE -->

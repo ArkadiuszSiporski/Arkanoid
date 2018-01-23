@@ -25,7 +25,7 @@ import singlePlayerMisc.Mustache;
  *
  */
 public abstract class NormalLevel extends CoreLevel {
-	// 4th over constant
+	// 4th gameState constant
 	protected static final int UNLOCKED_NEXT_LEVEL = 3;
 	// constants matching with those in SuperPowers
 	protected static final int SPEED_UP = 1;

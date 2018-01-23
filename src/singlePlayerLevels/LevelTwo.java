@@ -101,10 +101,10 @@ public class LevelTwo extends NormalLevel {
 					RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
 			g.setColor(Color.GREEN);
 			g.setFont(new Font("Serif", Font.BOLD, 100));
-			g.drawString("YOU WON!", 250, 500);
+			g.drawString(internationalizer.getString("youWon"), 250, 500);
 			if (gameState == UNLOCKED_NEXT_LEVEL) {
 				g.setFont(new Font("Serif", Font.BOLD, 50));
-				g.drawString(internationalizer.getString("unlockLvl2"), 150, 600);
+				g.drawString(internationalizer.getString("unlockLvl3"), 150, 600);
 				g.setFont(new Font("Serif", Font.BOLD, 25));
 				g.drawString(internationalizer.getString("spacebarCont"), 350, 650);
 				g.drawString(internationalizer.getString("orMouseReplay"), 280, 670);

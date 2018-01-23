@@ -7,6 +7,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 import org.w3c.dom.Document;
 
+import internationalization.impl.EnglishDictionary;
+import internationalization.impl.PolishDictionary;
 import panels.Menu;
 
 public final class Internationalizer {

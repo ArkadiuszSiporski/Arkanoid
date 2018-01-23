@@ -55,11 +55,12 @@ public class ArcanoidMenu extends JPanel
 	{
 
 		setLayout(new GridBagLayout());
-		setFactory();
 		
-		firstLevel = setLabel(level1Icon, level1RollOver, 1);
-		secondLevel =setLabel(level2Icon,  level2RollOver, 2);
 		thirdLevel = 	setLabel(level3Icon,  level3RollOver, 3);
+		LevelFactory.setThirdLevel(thirdLevel);
+		secondLevel =setLabel(level2Icon,  level2RollOver, 2);
+		LevelFactory.setSecondLevel(secondLevel);
+		firstLevel = setLabel(level1Icon, level1RollOver, 1);
 
 		secondLevel.setEnabled(false);
 		thirdLevel.setEnabled(false);
@@ -77,7 +78,7 @@ public class ArcanoidMenu extends JPanel
 			{
 				Main main = ((Main)SwingUtilities.getRoot(ArcanoidMenu.this));
 				main.toMenu();
-				main.remove(main.getArcanoidMenu());
+				main.remove(ArcanoidMenu.this);
 			}
 		});
 		back.setFocusable(false);
@@ -95,6 +96,10 @@ public class ArcanoidMenu extends JPanel
 	
 	}
 	
+	public void translate(){
+		back.setText(internationalizer.getString("back"));
+	}
+	
 	/**
 	 * This methond sets up arcanoid menu labels.
 	 * @param level icon that is shown when the cursor doesn't hover over the label
@@ -102,11 +107,6 @@ public class ArcanoidMenu extends JPanel
 	 * @param lvl which level the label is representing
 	 * @return returns a reference to set label
 	 */
-	private void setFactory(){
-		LevelFactory.setSecondLevel(secondLevel);
-		LevelFactory.setThirdLevel(thirdLevel);
-		
-	}
 	private JLabel setLabel(final Icon level, final Icon rollOver, final int lvl)
 	{
 		final JLabel label = new JLabel(level);
@@ -182,7 +182,7 @@ public class ArcanoidMenu extends JPanel
 			else//back to menu
 			{
 				main.toMenu();
-				main.remove(main.getArcanoidMenu());
+				main.remove(ArcanoidMenu.this);
 			}
 		}
 	}

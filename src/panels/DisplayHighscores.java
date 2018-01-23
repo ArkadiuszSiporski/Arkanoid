@@ -36,10 +36,14 @@ public class DisplayHighscores extends JPanel {
 	private static final Color BRONZE = new Color(160, 82, 45);
 	private static final boolean BACK = true;
 	private static final boolean EXIT = false;
-	private boolean initialized = false;
+	private Initialization initialization = Initialization.INPROGRESS;
 	private PlayerDao playerDao = new PlayerDaoImpl();
 	private List<Player> players = new ArrayList<>();
 	private Internationalizer internationalizer = Internationalizer.getInstance();
+
+	private enum Initialization {
+		SUCCESS, FAILURE, INPROGRESS;
+	}
 
 	/**
 	 * Constructor that sets up Key Bindings.
@@ -58,8 +62,16 @@ public class DisplayHighscores extends JPanel {
 
 	private class RecordFetcher extends Thread {
 		public void run() {
-			players = playerDao.getTop();
-			initialized = true;
+			try {
+				initialization = Initialization.INPROGRESS;
+				players = playerDao.getTop();
+				initialization = Initialization.SUCCESS;
+
+			} catch (Exception e) {
+				LOG.error("Failed to connect with the database", e);
+				initialization = Initialization.FAILURE;
+
+			}
 			repaint();
 		}
 	}
@@ -75,12 +87,12 @@ public class DisplayHighscores extends JPanel {
 		g.setFont(new Font("Serif", Font.BOLD, 30));
 		g.setColor(Color.BLACK);
 		g.fillRect(0, 0, 850, 900);
-		if (initialized) {
+		((Graphics2D) g).setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
+		if (Initialization.SUCCESS.equals(initialization)) {
 
 			int i = 1;
 			String output = internationalizer.getString("noRecords");
-			((Graphics2D) g).setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING,
-					RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
+
 			// reading the file
 			try {
 				if (players.size() <= 0) {
@@ -119,10 +131,15 @@ public class DisplayHighscores extends JPanel {
 			} else {
 				(SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(400, 0, 400, i * 80);
 			}
-		} else {
+		} else if (Initialization.INPROGRESS.equals(initialization)) {
 			g.setFont(new Font("Serif", Font.BOLD, 60));
 			g.setColor(Color.GREEN);
 			g.drawString(internationalizer.getString("loading"), 0, 70);
+		} else {
+			(SwingUtilities.getRoot(DisplayHighscores.this)).setBounds(400, 0, 800, 140);
+			g.setFont(new Font("Serif", Font.BOLD, 50));
+			g.setColor(Color.RED);
+			g.drawString(internationalizer.getString("dbFailure"), 0, 70);
 		}
 	}
 
@@ -141,9 +158,9 @@ public class DisplayHighscores extends JPanel {
 			Main main = ((Main) SwingUtilities.getRoot(DisplayHighscores.this));
 			// back to menu
 			if (action) {
-				initialized = false;
+				initialization = Initialization.FAILURE;
 				main.toMenu();
-				main.remove(main.getHighscores());
+				main.remove(DisplayHighscores.this);
 			}
 			// close the window
 			else {

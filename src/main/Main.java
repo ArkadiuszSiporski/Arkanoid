@@ -28,7 +28,7 @@ public class Main extends JFrame {
 	private static final Logger LOG = Logger.getLogger(Main.class);
 
 	private Menu menu;
-	private ArcanoidMenu arcanoidMenu;
+	private ArcanoidMenu arcanoidMenu = new ArcanoidMenu();
 	private Multiplayer multiplayer;
 	private Level game;
 
@@ -68,7 +68,7 @@ public class Main extends JFrame {
 		menu = new Menu();
 		add(menu);
 		// ARCANOID MENU
-		arcanoidMenu = new ArcanoidMenu();
+		arcanoidMenu.translate();
 		try {
 			SwingUtilities.updateComponentTreeUI(this);
 		} catch (Exception e) {
@@ -163,19 +163,5 @@ public class Main extends JFrame {
 
 	}
 
-	public ArcanoidMenu getArcanoidMenu() {
-		return arcanoidMenu;
-	}
 
-	public DisplayHighscores getHighscores() {
-		return highscores;
-	}
-
-	public Level getGame() {
-		return game;
-	}
-
-	public Multiplayer getMultiplayer() {
-		return multiplayer;
-	}
 }

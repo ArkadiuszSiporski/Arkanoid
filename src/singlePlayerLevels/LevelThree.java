@@ -118,7 +118,7 @@ public class LevelThree extends CoreLevel {
 
 		g.drawImage(background, 0, 0, null);
 		// paddle
-		player.draw(g); // invisible paddle... a feature perhaps
+		player.draw(g);
 		// meteor
 		meteor.draw(g);
 		// target
